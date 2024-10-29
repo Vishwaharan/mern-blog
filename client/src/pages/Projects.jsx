@@ -2,7 +2,8 @@ import React from "react";
 
 const projects = [
   {
-    image: "./src/assets/bluetooth.png", // Update with the correct image path
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/blog-915eb.appspot.com/o/assets%2Fbluetooth.png?alt=media&token=620cb920-b6e1-4de7-bb0c-687686bf84bd", // Update with the correct image path
     title: "Bluetooth Attendance System",
     description:
       "An attendance system that uses Bluetooth and fingerprint verification for secure tracking.",
@@ -11,7 +12,8 @@ const projects = [
       "https://github.com/Vishwaharan/Bluetooth-Attendance-System-Teacher-App",
   },
   {
-    image: "./src/assets/netflix.png", // Update with the correct image path
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/blog-915eb.appspot.com/o/assets%2Fnetflix.png?alt=media&token=7d2466cb-f3cf-423c-ad56-79ee14efc5bb", // Update with the correct image path
     title: "Netflix Clone",
     description:
       "A clone of Netflix with a beautiful UI for streaming movies and series, built using React.",
@@ -19,7 +21,8 @@ const projects = [
     githubLink: "https://github.com/Vishwaharan/Netflix-Clone",
   },
   {
-    image: "./src/assets/emp.png", // Update with the correct image path
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/blog-915eb.appspot.com/o/assets%2Femp.png?alt=media&token=d304c24b-143a-4595-a461-bab5d0b5c24c", // Update with the correct image path
     title: "Employee API",
     description:
       "An API to manage employee records, built with Spring Boot, React, and SQL.",

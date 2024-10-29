@@ -24,7 +24,10 @@ export default function CallToAction() {
         </a>
       </div>
       <div className="p-7 flex-1">
-        <img src="./src/assets/project.png" alt="GitHub Projects" />
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/blog-915eb.appspot.com/o/assets%2Fproject.png?alt=media&token=7fa61d46-b946-401b-a774-3614d072e8ed"
+          alt="GitHub Projects"
+        />
       </div>
     </div>
   );
