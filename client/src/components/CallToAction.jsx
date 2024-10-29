@@ -9,19 +9,18 @@ export default function CallToAction() {
           Visit my GitHub profile to see projects I’ve worked on, including web
           and mobile applications.
         </p>
-        <a
-          href="https://github.com/Vishwaharan?tab=repositories"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="self-center"
+        <Button
+          gradientDuoTone="purpleToPink"
+          className="rounded-tl-xl rounded-bl-none"
         >
-          <Button
-            gradientDuoTone="purpleToPink"
-            className="mt-6 rounded-tl-xl w-[400px]"
+          <a
+            href="https://github.com/Vishwaharan?tab=repositories"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             View My Projects
-          </Button>
-        </a>
+          </a>
+        </Button>
       </div>
       <div className="p-7 flex-1">
         <img
