@@ -11,7 +11,6 @@ export default function PostPage() {
   const [error, setError] = useState(false);
   const [post, setPost] = useState(null);
   const [recentPosts, setRecentPosts] = useState(null);
-
   useEffect(() => {
     const fetchPost = async () => {
       try {
